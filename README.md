@@ -1,6 +1,6 @@
 # Aryan Redhu
 
-Entry-level cybersecurity engineer focused on cloud security, application security, and vulnerability research. I package projects so recruiters and interviewers can quickly see the technical decisions, security relevance, and evidence behind the work.
+Arizona State University M.S. Computer Science student focused on cloud security, application security, vulnerability research, and secure systems. I package projects so recruiters and interviewers can quickly see the technical decisions, security relevance, and evidence behind the work.
 
 ## Target roles
 - Cloud Security Engineer
