@@ -29,4 +29,4 @@ Recruiter-ready portfolio snapshot of distributed AWS face-recognition pipelines
 
 ## Links
 - LinkedIn: <https://linkedin.com/in/aryan-re>
-- Portfolio: add live URL after Phase 4 deployment
+- Portfolio: <https://portfolio-iota-lyart-sh80kw22gl.vercel.app/>
